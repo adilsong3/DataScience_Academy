@@ -18,4 +18,4 @@ Alguns projetos a ser colocados abaixo tem um nivel junior, mas ao longo do temp
 
 ## Projetos:
 
-* Atualmente sem postagem dos projetos. **Em breve....**
+* Atualmente sem postagem dos projetos. **Status: em breve....**
