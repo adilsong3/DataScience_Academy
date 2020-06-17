@@ -14,7 +14,7 @@ Alguns projetos a ser colocados abaixo tem um nivel junior, mas ao longo do temp
 **Background in:** Python.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/adilson-gustavo-marcondes-barreto-de-souza-a74b98133/)
+* [LinkedIn](https://www.linkedin.com/in/adilson-gustavo-a74b98133/)
 
 ## Projetos de análise exploratória:
 
