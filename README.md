@@ -16,6 +16,10 @@ Alguns projetos a ser colocados abaixo tem um nivel junior, mas ao longo do temp
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/adilson-gustavo-marcondes-barreto-de-souza-a74b98133/)
 
-## Projetos:
+## Projetos de análise exploratória:
 
-* Analise de dados do Airbnb - cidade de Columbus, Ohio. **https://bit.ly/3dW6s5N**
+* Analise de dados do Airbnb - cidade de Columbus, Ohio: **https://bit.ly/3dW6s5N**
+
+## Projetos com fins didáticos:
+
+* Criação de Dataframes para iniciantes: **https://bit.ly/2UQhxOe**
