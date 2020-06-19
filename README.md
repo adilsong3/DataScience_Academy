@@ -23,3 +23,4 @@ Alguns projetos a ser colocados abaixo tem um nivel junior, mas ao longo do temp
 ## Projetos com fins didáticos:
 
 * Criação de Dataframes para iniciantes: **https://bit.ly/2UQhxOe**
+* Explorando Dataframes com pandas profiling para iniciantes: **https://bit.ly/2YdgdHk**
