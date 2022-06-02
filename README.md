@@ -4,7 +4,8 @@
   <img src="bannergit.png" >
 </p>
 
-# Adilson Gustavo
+<h1 align="center">Oi 👋, me chamo Adilson Gustavo</h1>
+
 <sub>*Estudante de Analise Desenvolmento de Sistemas e amante da área de Ciencia de Dados*</sub>
 
 Atualmente buscando os conhecimento de um cientistas de dados atráves de cursos, exploração de notebooks abertos e muito interesse na área, esse repositório visa mostrar alguns projetos de exploração de dados mostrando o real valor de uma boa análise.
