@@ -21,6 +21,7 @@ Alguns projetos a ser colocados abaixo tem um nivel junior, mas ao longo do temp
 
 * Analise de dados do Airbnb - cidade de Columbus, Ohio: **https://bit.ly/3dW6s5N**
 * Analise de dados do Governo - violência no Rio de Janeiro: **https://bit.ly/2V9Qgqq**
+* Analise de dados Laboratorial + envio dos Dados por E-mail: **https://bit.ly/3Ary6UH**
 
 ## Projetos com fins didáticos:
 
