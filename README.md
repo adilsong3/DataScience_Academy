@@ -6,7 +6,7 @@
 
 <h1 align="center">Oi 👋, me chamo Adilson Gustavo</h1>
 
-<sub>*Estudante de Ciência de Dados na Uninter*</sub>
+<sub>*Graduando em Ciência de Dados na Uninter*</sub>
 
 Atualmente buscando os conhecimento de um cientistas de dados atráves de faculdade, cursos, exploração de notebooks abertos e muito interesse na área, esse repositório visa mostrar alguns projetos de exploração de dados mostrando o real valor de uma boa análise.
 
