@@ -25,6 +25,7 @@ Alguns projetos a ser colocados abaixo tem um nivel junior, mas ao longo do temp
 * Analise de dados do Airbnb - cidade de Columbus, Ohio: [clique para ver o projeto](https://bit.ly/3dW6s5N)
 * Analise de dados do Governo - violência no Rio de Janeiro: [clique para ver o projeto](https://bit.ly/2V9Qgqq)
 * Analise de dados Laboratorial + envio dos Dados por E-mail: [clique para ver o projeto](https://bit.ly/3Ary6UH)
+* Analise de dados (Kaggle) - Salários na Área de Dados: [clique para ver o projeto](https://github.com/adilsong3/DataScience_Academy/blob/master/Data_Science_Job_Salaries.ipynb)
 
 ## Projetos com fins didáticos:
 
