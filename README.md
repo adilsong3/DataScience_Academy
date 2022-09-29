@@ -29,5 +29,9 @@ Alguns projetos a ser colocados abaixo tem um nivel junior, mas ao longo do temp
 
 ## Projetos com fins didáticos:
 
-* Criação de Dataframes para iniciantes: [clique para ver o projeto](https://bit.ly/2UQhxOe)
-* Explorando Dataframes com pandas profiling para iniciantes: [clique para ver o projeto](https://bit.ly/2YdgdHk)
+* Criação de Dataframes para Iniciantes: [clique para ver o projeto](https://bit.ly/2UQhxOe)
+* Explorando Dataframes com Pandas Profiling para iniciantes: [clique para ver o projeto](https://bit.ly/2YdgdHk)
+
+## Projeto de visualização com Power BI:
+
+* Criando Dashboard para Aumentar o Faturamento da Empresa Master Xyz: [clique para ver o projeto](https://github.com/adilsong3/DataScience_Academy/blob/master/PowerBI_Empresa_Master_Xyz.ipynb)
